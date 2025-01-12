@@ -1,0 +1,9 @@
+id,title,type,is_downloadable,descp,resource_id,course_id
+1,joe,pdf,true,Lorem,,123
+2,mike,blog,false,Ipsum,,123
+3,abc,video,true,Lorem,,123
+4,def,video,true,Lorem,,123
+5,ghi,video,true,Lorem,,123
+6,jkl,quiz,false,Ipsum,,123
+7,mnn,video,true,Lorem,,123
+8,opq,video,true,Lorem,,123
